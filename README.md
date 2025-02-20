@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Arpit Mishra</h1>
-<h3 align="left">A passionate developer from India, with experience in full stack development and blockchain development with a keen interest in Machine Learning.</h3>
+<h3 align="left">A curious developer who enjoys solving complex problems and creating seamless digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitmishra17&label=Profile%20views&color=0e75b6&style=flat" alt="arpitmishra17" /> </p>
 
