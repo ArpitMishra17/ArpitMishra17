@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitmishra17&label=Profile%20views&color=0e75b6&style=flat" alt="arpitmishra17" /> </p>
 
-- 🔭 I’m currently working on [Speech to Insights](https://github.com/ArpitMishra17/Speech-to-Insights)
+- 🔭 I’m currently working on [Trade Simulator](https://github.com/ArpitMishra17/OKX_Trade_Simulator)
 
 - 🌱 I’m currently learning **ReactJS**
 
