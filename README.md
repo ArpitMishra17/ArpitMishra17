@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArpitMishra17](https://github.com/ArpitMishra17)
 
-- 💬 Ask me about **Django, JavaScript, C++**
+- 💬 Ask me about **RAG, LLM and AI Applications**
 
 - 📫 How to reach me **mishrarpit3117@gmail.com**
 
